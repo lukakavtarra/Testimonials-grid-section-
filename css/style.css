@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(210, 46%, 95%);
+    background-color: hsl(210, 46%, 95%) !important;
     overflow: hidden;
 }
 
